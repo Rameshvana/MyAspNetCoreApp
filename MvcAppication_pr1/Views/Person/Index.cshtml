@@ -1,0 +1,71 @@
+﻿@using MvcAppication_pr1.Models
+@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+}
+@model List<Person>
+<div>
+    
+   
+
+
+    <table class="table table-bordered">
+        <div style="display:flex; align-items: center; margin-bottom:15px;">
+            <h5>Persons Table</h5>
+            <form asp-controller="Person" asp-action="AddPerson" method="get">
+                <button type="submit" class="btn btn-primary" style="margin:0px 0px 0px 70px;">Add Person</button>
+            </form>
+            
+        </div>
+
+        <thead>
+            <tr>
+                <th scope="col">Id</th>
+                <th scope="col">FirstName</th>
+                <th scope="col">LastName</th>
+                <th scope="col">Age</th>
+                <th scope="col">Email</th>
+                <th scope="col">MobileNo</th>
+                <th scope="col">Address</th>
+                <th scope="col">Occupation</th>
+               <th scope="col">Actions</th>
+            </tr>
+        </thead>
+        <tbody>
+
+            @foreach(var pr in Model)
+            {
+                <tr>
+                    <th scope="col">@pr.Id</th>
+                    <th scope="row">@pr.FirstName</th>
+                    <td>@pr.LastName</td>
+                    <td>@pr.Age</td>
+                    <td>@pr.MobileNo</td>
+                    <td>@pr.Address</td>
+                    <td>@pr.Email</td>
+                    <td>@pr.Occupation</td>
+                    <td>
+                        <div style="
+                        display: flex;
+                        align-content: center;
+                        justify-content: space-around;
+                        ">
+                            <form asp-controller="Person" asp-action="Update" method="post" asp-route-id=@pr.Id>
+                                <button type="submit" class="btn btn-sm btn-warning">Update</button>
+                            </form>
+                            <form asp-controller="Person" asp-action="DelPerson" method="post" asp-route-id=@pr.Id onsubmit="return confirm('Are you sure you want to delete this person?');">
+                                <button type="submit" class="btn btn-sm btn-danger">Delete</button>
+                            </form>
+                        </div>
+
+                    </td>
+
+                </tr>
+            }
+ 
+        </tbody>
+    </table>
+
+
+</div>
