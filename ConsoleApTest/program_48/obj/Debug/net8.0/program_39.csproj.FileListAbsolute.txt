@@ -1,0 +1,11 @@
+C:\Users\Ramesh.Vanaparthi\source\repos\ConsoleApTest\program_48\bin\Debug\net8.0\program_39.deps.json
+C:\Users\Ramesh.Vanaparthi\source\repos\ConsoleApTest\program_48\bin\Debug\net8.0\program_39.dll
+C:\Users\Ramesh.Vanaparthi\source\repos\ConsoleApTest\program_48\bin\Debug\net8.0\program_39.pdb
+C:\Users\Ramesh.Vanaparthi\source\repos\ConsoleApTest\program_48\obj\Debug\net8.0\program_39.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ramesh.Vanaparthi\source\repos\ConsoleApTest\program_48\obj\Debug\net8.0\program_39.AssemblyInfoInputs.cache
+C:\Users\Ramesh.Vanaparthi\source\repos\ConsoleApTest\program_48\obj\Debug\net8.0\program_39.AssemblyInfo.cs
+C:\Users\Ramesh.Vanaparthi\source\repos\ConsoleApTest\program_48\obj\Debug\net8.0\program_39.csproj.CoreCompileInputs.cache
+C:\Users\Ramesh.Vanaparthi\source\repos\ConsoleApTest\program_48\obj\Debug\net8.0\program_39.dll
+C:\Users\Ramesh.Vanaparthi\source\repos\ConsoleApTest\program_48\obj\Debug\net8.0\refint\program_39.dll
+C:\Users\Ramesh.Vanaparthi\source\repos\ConsoleApTest\program_48\obj\Debug\net8.0\program_39.pdb
+C:\Users\Ramesh.Vanaparthi\source\repos\ConsoleApTest\program_48\obj\Debug\net8.0\ref\program_39.dll

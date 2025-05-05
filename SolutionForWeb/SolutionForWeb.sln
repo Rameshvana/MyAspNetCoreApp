@@ -1,0 +1,41 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35825.156 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{8EC462FD-D22E-90A8-E5CE-7E832BA40C5D}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "ProductManagment", "ProductManagment", "{02EA681E-C7D8-13C7-8484-4AC65E1B71E8}"
+	ProjectSection(SolutionItems) = preProject
+		productIndex.html = productIndex.html
+		Script2.js = Script2.js
+		StyleSheet2.css = StyleSheet2.css
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "UserManagment", "UserManagment", "{7D2FCC5E-DAF8-4205-906F-562522AF2E79}"
+	ProjectSection(SolutionItems) = preProject
+		Script3.js = Script3.js
+		StyleSheet3.css = StyleSheet3.css
+		UserIndex.html = UserIndex.html
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "SiteManagmnt", "SiteManagmnt", "{726A937F-FDFC-4796-81FD-1258E9A63911}"
+	ProjectSection(SolutionItems) = preProject
+		Script1.js = Script1.js
+		siteIndex.html = siteIndex.html
+		StyleSheet1.css = StyleSheet1.css
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{02EA681E-C7D8-13C7-8484-4AC65E1B71E8} = {8EC462FD-D22E-90A8-E5CE-7E832BA40C5D}
+		{7D2FCC5E-DAF8-4205-906F-562522AF2E79} = {8EC462FD-D22E-90A8-E5CE-7E832BA40C5D}
+		{726A937F-FDFC-4796-81FD-1258E9A63911} = {8EC462FD-D22E-90A8-E5CE-7E832BA40C5D}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D79A85BB-2F48-4A7F-9BFC-7FA3D8836DF8}
+	EndGlobalSection
+EndGlobal

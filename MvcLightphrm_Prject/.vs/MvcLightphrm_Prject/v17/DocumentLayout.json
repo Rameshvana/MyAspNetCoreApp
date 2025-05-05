@@ -1,0 +1,313 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Ramesh.Vanaparthi\\Desktop\\Asp.Net_coreMvc\\MvcLightphrm_Prject\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B080A79E-62FA-410A-BF68-BF0672DE3427}|MvcLightphrm_Prject\\MvcLightphrm_Prject.csproj|c:\\users\\ramesh.vanaparthi\\desktop\\asp.net_coremvc\\mvclightphrm_prject\\mvclightphrm_prject\\views\\site\\site.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B080A79E-62FA-410A-BF68-BF0672DE3427}|MvcLightphrm_Prject\\MvcLightphrm_Prject.csproj|solutionrelative:mvclightphrm_prject\\views\\site\\site.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B080A79E-62FA-410A-BF68-BF0672DE3427}|MvcLightphrm_Prject\\MvcLightphrm_Prject.csproj|c:\\users\\ramesh.vanaparthi\\desktop\\asp.net_coremvc\\mvclightphrm_prject\\mvclightphrm_prject\\views\\product\\product.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B080A79E-62FA-410A-BF68-BF0672DE3427}|MvcLightphrm_Prject\\MvcLightphrm_Prject.csproj|solutionrelative:mvclightphrm_prject\\views\\product\\product.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B080A79E-62FA-410A-BF68-BF0672DE3427}|MvcLightphrm_Prject\\MvcLightphrm_Prject.csproj|c:\\users\\ramesh.vanaparthi\\desktop\\asp.net_coremvc\\mvclightphrm_prject\\mvclightphrm_prject\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B080A79E-62FA-410A-BF68-BF0672DE3427}|MvcLightphrm_Prject\\MvcLightphrm_Prject.csproj|solutionrelative:mvclightphrm_prject\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B080A79E-62FA-410A-BF68-BF0672DE3427}|MvcLightphrm_Prject\\MvcLightphrm_Prject.csproj|c:\\users\\ramesh.vanaparthi\\desktop\\asp.net_coremvc\\mvclightphrm_prject\\mvclightphrm_prject\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B080A79E-62FA-410A-BF68-BF0672DE3427}|MvcLightphrm_Prject\\MvcLightphrm_Prject.csproj|solutionrelative:mvclightphrm_prject\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B080A79E-62FA-410A-BF68-BF0672DE3427}|MvcLightphrm_Prject\\MvcLightphrm_Prject.csproj|c:\\users\\ramesh.vanaparthi\\desktop\\asp.net_coremvc\\mvclightphrm_prject\\mvclightphrm_prject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B080A79E-62FA-410A-BF68-BF0672DE3427}|MvcLightphrm_Prject\\MvcLightphrm_Prject.csproj|solutionrelative:mvclightphrm_prject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B080A79E-62FA-410A-BF68-BF0672DE3427}|MvcLightphrm_Prject\\MvcLightphrm_Prject.csproj|c:\\users\\ramesh.vanaparthi\\desktop\\asp.net_coremvc\\mvclightphrm_prject\\mvclightphrm_prject\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B080A79E-62FA-410A-BF68-BF0672DE3427}|MvcLightphrm_Prject\\MvcLightphrm_Prject.csproj|solutionrelative:mvclightphrm_prject\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B080A79E-62FA-410A-BF68-BF0672DE3427}|MvcLightphrm_Prject\\MvcLightphrm_Prject.csproj|c:\\users\\ramesh.vanaparthi\\desktop\\asp.net_coremvc\\mvclightphrm_prject\\mvclightphrm_prject\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B080A79E-62FA-410A-BF68-BF0672DE3427}|MvcLightphrm_Prject\\MvcLightphrm_Prject.csproj|solutionrelative:mvclightphrm_prject\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B080A79E-62FA-410A-BF68-BF0672DE3427}|MvcLightphrm_Prject\\MvcLightphrm_Prject.csproj|c:\\users\\ramesh.vanaparthi\\desktop\\asp.net_coremvc\\mvclightphrm_prject\\mvclightphrm_prject\\controllers\\calendarcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B080A79E-62FA-410A-BF68-BF0672DE3427}|MvcLightphrm_Prject\\MvcLightphrm_Prject.csproj|solutionrelative:mvclightphrm_prject\\controllers\\calendarcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B080A79E-62FA-410A-BF68-BF0672DE3427}|MvcLightphrm_Prject\\MvcLightphrm_Prject.csproj|c:\\users\\ramesh.vanaparthi\\desktop\\asp.net_coremvc\\mvclightphrm_prject\\mvclightphrm_prject\\views\\calendar\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B080A79E-62FA-410A-BF68-BF0672DE3427}|MvcLightphrm_Prject\\MvcLightphrm_Prject.csproj|solutionrelative:mvclightphrm_prject\\views\\calendar\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B080A79E-62FA-410A-BF68-BF0672DE3427}|MvcLightphrm_Prject\\MvcLightphrm_Prject.csproj|c:\\users\\ramesh.vanaparthi\\desktop\\asp.net_coremvc\\mvclightphrm_prject\\mvclightphrm_prject\\controllers\\sitecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B080A79E-62FA-410A-BF68-BF0672DE3427}|MvcLightphrm_Prject\\MvcLightphrm_Prject.csproj|solutionrelative:mvclightphrm_prject\\controllers\\sitecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B080A79E-62FA-410A-BF68-BF0672DE3427}|MvcLightphrm_Prject\\MvcLightphrm_Prject.csproj|c:\\users\\ramesh.vanaparthi\\desktop\\asp.net_coremvc\\mvclightphrm_prject\\mvclightphrm_prject\\models\\product\\productrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B080A79E-62FA-410A-BF68-BF0672DE3427}|MvcLightphrm_Prject\\MvcLightphrm_Prject.csproj|solutionrelative:mvclightphrm_prject\\models\\product\\productrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B080A79E-62FA-410A-BF68-BF0672DE3427}|MvcLightphrm_Prject\\MvcLightphrm_Prject.csproj|c:\\users\\ramesh.vanaparthi\\desktop\\asp.net_coremvc\\mvclightphrm_prject\\mvclightphrm_prject\\models\\calendar\\calendarrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B080A79E-62FA-410A-BF68-BF0672DE3427}|MvcLightphrm_Prject\\MvcLightphrm_Prject.csproj|solutionrelative:mvclightphrm_prject\\models\\calendar\\calendarrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B080A79E-62FA-410A-BF68-BF0672DE3427}|MvcLightphrm_Prject\\MvcLightphrm_Prject.csproj|c:\\users\\ramesh.vanaparthi\\desktop\\asp.net_coremvc\\mvclightphrm_prject\\mvclightphrm_prject\\views\\calendar\\viewcalendar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B080A79E-62FA-410A-BF68-BF0672DE3427}|MvcLightphrm_Prject\\MvcLightphrm_Prject.csproj|solutionrelative:mvclightphrm_prject\\views\\calendar\\viewcalendar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B080A79E-62FA-410A-BF68-BF0672DE3427}|MvcLightphrm_Prject\\MvcLightphrm_Prject.csproj|c:\\users\\ramesh.vanaparthi\\desktop\\asp.net_coremvc\\mvclightphrm_prject\\mvclightphrm_prject\\models\\calendar\\calendar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B080A79E-62FA-410A-BF68-BF0672DE3427}|MvcLightphrm_Prject\\MvcLightphrm_Prject.csproj|solutionrelative:mvclightphrm_prject\\models\\calendar\\calendar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B080A79E-62FA-410A-BF68-BF0672DE3427}|MvcLightphrm_Prject\\MvcLightphrm_Prject.csproj|c:\\users\\ramesh.vanaparthi\\desktop\\asp.net_coremvc\\mvclightphrm_prject\\mvclightphrm_prject\\views\\calendar\\opencalendar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B080A79E-62FA-410A-BF68-BF0672DE3427}|MvcLightphrm_Prject\\MvcLightphrm_Prject.csproj|solutionrelative:mvclightphrm_prject\\views\\calendar\\opencalendar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B080A79E-62FA-410A-BF68-BF0672DE3427}|MvcLightphrm_Prject\\MvcLightphrm_Prject.csproj|c:\\users\\ramesh.vanaparthi\\desktop\\asp.net_coremvc\\mvclightphrm_prject\\mvclightphrm_prject\\models\\user\\userrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B080A79E-62FA-410A-BF68-BF0672DE3427}|MvcLightphrm_Prject\\MvcLightphrm_Prject.csproj|solutionrelative:mvclightphrm_prject\\models\\user\\userrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B080A79E-62FA-410A-BF68-BF0672DE3427}|MvcLightphrm_Prject\\MvcLightphrm_Prject.csproj|c:\\users\\ramesh.vanaparthi\\desktop\\asp.net_coremvc\\mvclightphrm_prject\\mvclightphrm_prject\\models\\site\\siterepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B080A79E-62FA-410A-BF68-BF0672DE3427}|MvcLightphrm_Prject\\MvcLightphrm_Prject.csproj|solutionrelative:mvclightphrm_prject\\models\\site\\siterepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B080A79E-62FA-410A-BF68-BF0672DE3427}|MvcLightphrm_Prject\\MvcLightphrm_Prject.csproj|c:\\users\\ramesh.vanaparthi\\desktop\\asp.net_coremvc\\mvclightphrm_prject\\mvclightphrm_prject\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{B080A79E-62FA-410A-BF68-BF0672DE3427}|MvcLightphrm_Prject\\MvcLightphrm_Prject.csproj|solutionrelative:mvclightphrm_prject\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Ramesh.Vanaparthi\\Desktop\\Asp.Net_coreMvc\\MvcLightphrm_Prject\\MvcLightphrm_Prject\\Program.cs",
+              "RelativeDocumentMoniker": "MvcLightphrm_Prject\\Program.cs",
+              "ToolTip": "C:\\Users\\Ramesh.Vanaparthi\\Desktop\\Asp.Net_coreMvc\\MvcLightphrm_Prject\\MvcLightphrm_Prject\\Program.cs",
+              "RelativeToolTip": "MvcLightphrm_Prject\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABEAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-02T05:02:43.337Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Ramesh.Vanaparthi\\Desktop\\Asp.Net_coreMvc\\MvcLightphrm_Prject\\MvcLightphrm_Prject\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "MvcLightphrm_Prject\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Ramesh.Vanaparthi\\Desktop\\Asp.Net_coreMvc\\MvcLightphrm_Prject\\MvcLightphrm_Prject\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "MvcLightphrm_Prject\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAACAAAAAAAAAAAAAAwDIAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-02T05:00:24.042Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Product.cshtml",
+              "DocumentMoniker": "C:\\Users\\Ramesh.Vanaparthi\\Desktop\\Asp.Net_coreMvc\\MvcLightphrm_Prject\\MvcLightphrm_Prject\\Views\\Product\\Product.cshtml",
+              "RelativeDocumentMoniker": "MvcLightphrm_Prject\\Views\\Product\\Product.cshtml",
+              "ToolTip": "C:\\Users\\Ramesh.Vanaparthi\\Desktop\\Asp.Net_coreMvc\\MvcLightphrm_Prject\\MvcLightphrm_Prject\\Views\\Product\\Product.cshtml",
+              "RelativeToolTip": "MvcLightphrm_Prject\\Views\\Product\\Product.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-02T04:36:38.875Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Site.cshtml",
+              "DocumentMoniker": "C:\\Users\\Ramesh.Vanaparthi\\Desktop\\Asp.Net_coreMvc\\MvcLightphrm_Prject\\MvcLightphrm_Prject\\Views\\Site\\Site.cshtml",
+              "RelativeDocumentMoniker": "MvcLightphrm_Prject\\Views\\Site\\Site.cshtml",
+              "ToolTip": "C:\\Users\\Ramesh.Vanaparthi\\Desktop\\Asp.Net_coreMvc\\MvcLightphrm_Prject\\MvcLightphrm_Prject\\Views\\Site\\Site.cshtml",
+              "RelativeToolTip": "MvcLightphrm_Prject\\Views\\Site\\Site.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAABoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-02T04:35:06.246Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Ramesh.Vanaparthi\\Desktop\\Asp.Net_coreMvc\\MvcLightphrm_Prject\\MvcLightphrm_Prject\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "MvcLightphrm_Prject\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Ramesh.Vanaparthi\\Desktop\\Asp.Net_coreMvc\\MvcLightphrm_Prject\\MvcLightphrm_Prject\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "MvcLightphrm_Prject\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-02T04:29:18.456Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Ramesh.Vanaparthi\\Desktop\\Asp.Net_coreMvc\\MvcLightphrm_Prject\\MvcLightphrm_Prject\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "MvcLightphrm_Prject\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Ramesh.Vanaparthi\\Desktop\\Asp.Net_coreMvc\\MvcLightphrm_Prject\\MvcLightphrm_Prject\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "MvcLightphrm_Prject\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABMAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-02T04:20:58.147Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AdminController.cs",
+              "DocumentMoniker": "C:\\Users\\Ramesh.Vanaparthi\\Desktop\\Asp.Net_coreMvc\\MvcLightphrm_Prject\\MvcLightphrm_Prject\\Controllers\\AdminController.cs",
+              "RelativeDocumentMoniker": "MvcLightphrm_Prject\\Controllers\\AdminController.cs",
+              "ToolTip": "C:\\Users\\Ramesh.Vanaparthi\\Desktop\\Asp.Net_coreMvc\\MvcLightphrm_Prject\\MvcLightphrm_Prject\\Controllers\\AdminController.cs",
+              "RelativeToolTip": "MvcLightphrm_Prject\\Controllers\\AdminController.cs",
+              "ViewState": "AgIAACsAAAAAAAAAAAAwwGEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-30T10:36:50.511Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ViewCalendar.cshtml",
+              "DocumentMoniker": "C:\\Users\\Ramesh.Vanaparthi\\Desktop\\Asp.Net_coreMvc\\MvcLightphrm_Prject\\MvcLightphrm_Prject\\Views\\Calendar\\ViewCalendar.cshtml",
+              "RelativeDocumentMoniker": "MvcLightphrm_Prject\\Views\\Calendar\\ViewCalendar.cshtml",
+              "ToolTip": "C:\\Users\\Ramesh.Vanaparthi\\Desktop\\Asp.Net_coreMvc\\MvcLightphrm_Prject\\MvcLightphrm_Prject\\Views\\Calendar\\ViewCalendar.cshtml",
+              "RelativeToolTip": "MvcLightphrm_Prject\\Views\\Calendar\\ViewCalendar.cshtml",
+              "ViewState": "AgIAABoAAAAAAAAAAAAAwC8AAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-30T09:19:30.637Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "OpenCalendar.cshtml",
+              "DocumentMoniker": "C:\\Users\\Ramesh.Vanaparthi\\Desktop\\Asp.Net_coreMvc\\MvcLightphrm_Prject\\MvcLightphrm_Prject\\Views\\Calendar\\OpenCalendar.cshtml",
+              "RelativeDocumentMoniker": "MvcLightphrm_Prject\\Views\\Calendar\\OpenCalendar.cshtml",
+              "ToolTip": "C:\\Users\\Ramesh.Vanaparthi\\Desktop\\Asp.Net_coreMvc\\MvcLightphrm_Prject\\MvcLightphrm_Prject\\Views\\Calendar\\OpenCalendar.cshtml",
+              "RelativeToolTip": "MvcLightphrm_Prject\\Views\\Calendar\\OpenCalendar.cshtml",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAADMAAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-30T09:15:02.881Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\Ramesh.Vanaparthi\\Desktop\\Asp.Net_coreMvc\\MvcLightphrm_Prject\\MvcLightphrm_Prject\\Views\\Calendar\\Create.cshtml",
+              "RelativeDocumentMoniker": "MvcLightphrm_Prject\\Views\\Calendar\\Create.cshtml",
+              "ToolTip": "C:\\Users\\Ramesh.Vanaparthi\\Desktop\\Asp.Net_coreMvc\\MvcLightphrm_Prject\\MvcLightphrm_Prject\\Views\\Calendar\\Create.cshtml",
+              "RelativeToolTip": "MvcLightphrm_Prject\\Views\\Calendar\\Create.cshtml",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAB4AAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-30T06:57:00.671Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ProductRepo.cs",
+              "DocumentMoniker": "C:\\Users\\Ramesh.Vanaparthi\\Desktop\\Asp.Net_coreMvc\\MvcLightphrm_Prject\\MvcLightphrm_Prject\\Models\\Product\\ProductRepo.cs",
+              "RelativeDocumentMoniker": "MvcLightphrm_Prject\\Models\\Product\\ProductRepo.cs",
+              "ToolTip": "C:\\Users\\Ramesh.Vanaparthi\\Desktop\\Asp.Net_coreMvc\\MvcLightphrm_Prject\\MvcLightphrm_Prject\\Models\\Product\\ProductRepo.cs",
+              "RelativeToolTip": "MvcLightphrm_Prject\\Models\\Product\\ProductRepo.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAQwD0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-30T06:01:46.101Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "SiteController.cs",
+              "DocumentMoniker": "C:\\Users\\Ramesh.Vanaparthi\\Desktop\\Asp.Net_coreMvc\\MvcLightphrm_Prject\\MvcLightphrm_Prject\\Controllers\\SiteController.cs",
+              "RelativeDocumentMoniker": "MvcLightphrm_Prject\\Controllers\\SiteController.cs",
+              "ToolTip": "C:\\Users\\Ramesh.Vanaparthi\\Desktop\\Asp.Net_coreMvc\\MvcLightphrm_Prject\\MvcLightphrm_Prject\\Controllers\\SiteController.cs",
+              "RelativeToolTip": "MvcLightphrm_Prject\\Controllers\\SiteController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-30T04:27:45.51Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "SiteRepo.cs",
+              "DocumentMoniker": "C:\\Users\\Ramesh.Vanaparthi\\Desktop\\Asp.Net_coreMvc\\MvcLightphrm_Prject\\MvcLightphrm_Prject\\Models\\Site\\SiteRepo.cs",
+              "RelativeDocumentMoniker": "MvcLightphrm_Prject\\Models\\Site\\SiteRepo.cs",
+              "ToolTip": "C:\\Users\\Ramesh.Vanaparthi\\Desktop\\Asp.Net_coreMvc\\MvcLightphrm_Prject\\MvcLightphrm_Prject\\Models\\Site\\SiteRepo.cs",
+              "RelativeToolTip": "MvcLightphrm_Prject\\Models\\Site\\SiteRepo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-30T04:27:45.578Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "UserRepo.cs",
+              "DocumentMoniker": "C:\\Users\\Ramesh.Vanaparthi\\Desktop\\Asp.Net_coreMvc\\MvcLightphrm_Prject\\MvcLightphrm_Prject\\Models\\User\\UserRepo.cs",
+              "RelativeDocumentMoniker": "MvcLightphrm_Prject\\Models\\User\\UserRepo.cs",
+              "ToolTip": "C:\\Users\\Ramesh.Vanaparthi\\Desktop\\Asp.Net_coreMvc\\MvcLightphrm_Prject\\MvcLightphrm_Prject\\Models\\User\\UserRepo.cs",
+              "RelativeToolTip": "MvcLightphrm_Prject\\Models\\User\\UserRepo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-30T04:27:45.622Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Calendar.cs",
+              "DocumentMoniker": "C:\\Users\\Ramesh.Vanaparthi\\Desktop\\Asp.Net_coreMvc\\MvcLightphrm_Prject\\MvcLightphrm_Prject\\Models\\Calendar\\Calendar.cs",
+              "RelativeDocumentMoniker": "MvcLightphrm_Prject\\Models\\Calendar\\Calendar.cs",
+              "ToolTip": "C:\\Users\\Ramesh.Vanaparthi\\Desktop\\Asp.Net_coreMvc\\MvcLightphrm_Prject\\MvcLightphrm_Prject\\Models\\Calendar\\Calendar.cs",
+              "RelativeToolTip": "MvcLightphrm_Prject\\Models\\Calendar\\Calendar.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-30T05:30:29.704Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Ramesh.Vanaparthi\\Desktop\\Asp.Net_coreMvc\\MvcLightphrm_Prject\\MvcLightphrm_Prject\\appsettings.json",
+              "RelativeDocumentMoniker": "MvcLightphrm_Prject\\appsettings.json",
+              "ToolTip": "C:\\Users\\Ramesh.Vanaparthi\\Desktop\\Asp.Net_coreMvc\\MvcLightphrm_Prject\\MvcLightphrm_Prject\\appsettings.json",
+              "RelativeToolTip": "MvcLightphrm_Prject\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-04-30T05:25:35.027Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "CalendarRepo.cs",
+              "DocumentMoniker": "C:\\Users\\Ramesh.Vanaparthi\\Desktop\\Asp.Net_coreMvc\\MvcLightphrm_Prject\\MvcLightphrm_Prject\\Models\\Calendar\\CalendarRepo.cs",
+              "RelativeDocumentMoniker": "MvcLightphrm_Prject\\Models\\Calendar\\CalendarRepo.cs",
+              "ToolTip": "C:\\Users\\Ramesh.Vanaparthi\\Desktop\\Asp.Net_coreMvc\\MvcLightphrm_Prject\\MvcLightphrm_Prject\\Models\\Calendar\\CalendarRepo.cs",
+              "RelativeToolTip": "MvcLightphrm_Prject\\Models\\Calendar\\CalendarRepo.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABYAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-30T04:27:45.655Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CalendarController.cs",
+              "DocumentMoniker": "C:\\Users\\Ramesh.Vanaparthi\\Desktop\\Asp.Net_coreMvc\\MvcLightphrm_Prject\\MvcLightphrm_Prject\\Controllers\\CalendarController.cs",
+              "RelativeDocumentMoniker": "MvcLightphrm_Prject\\Controllers\\CalendarController.cs",
+              "ToolTip": "C:\\Users\\Ramesh.Vanaparthi\\Desktop\\Asp.Net_coreMvc\\MvcLightphrm_Prject\\MvcLightphrm_Prject\\Controllers\\CalendarController.cs",
+              "RelativeToolTip": "MvcLightphrm_Prject\\Controllers\\CalendarController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAJMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-30T04:53:59.265Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

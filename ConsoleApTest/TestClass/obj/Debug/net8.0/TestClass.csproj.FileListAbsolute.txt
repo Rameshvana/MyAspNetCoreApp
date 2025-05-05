@@ -1,0 +1,11 @@
+C:\Users\Ramesh.Vanaparthi\source\repos\ConsoleApTest\TestClass\bin\Debug\net8.0\TestClass.deps.json
+C:\Users\Ramesh.Vanaparthi\source\repos\ConsoleApTest\TestClass\bin\Debug\net8.0\TestClass.dll
+C:\Users\Ramesh.Vanaparthi\source\repos\ConsoleApTest\TestClass\bin\Debug\net8.0\TestClass.pdb
+C:\Users\Ramesh.Vanaparthi\source\repos\ConsoleApTest\TestClass\obj\Debug\net8.0\TestClass.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ramesh.Vanaparthi\source\repos\ConsoleApTest\TestClass\obj\Debug\net8.0\TestClass.AssemblyInfoInputs.cache
+C:\Users\Ramesh.Vanaparthi\source\repos\ConsoleApTest\TestClass\obj\Debug\net8.0\TestClass.AssemblyInfo.cs
+C:\Users\Ramesh.Vanaparthi\source\repos\ConsoleApTest\TestClass\obj\Debug\net8.0\TestClass.csproj.CoreCompileInputs.cache
+C:\Users\Ramesh.Vanaparthi\source\repos\ConsoleApTest\TestClass\obj\Debug\net8.0\TestClass.dll
+C:\Users\Ramesh.Vanaparthi\source\repos\ConsoleApTest\TestClass\obj\Debug\net8.0\refint\TestClass.dll
+C:\Users\Ramesh.Vanaparthi\source\repos\ConsoleApTest\TestClass\obj\Debug\net8.0\TestClass.pdb
+C:\Users\Ramesh.Vanaparthi\source\repos\ConsoleApTest\TestClass\obj\Debug\net8.0\ref\TestClass.dll

@@ -1,0 +1,46 @@
+﻿@model List<MvcApplication_pr01.Models.Entitys.Product>
+
+@{
+    ViewData["Title"] = "Product List";
+}
+
+<h2>Products</h2>
+<a href="/Product/Add" class="btn btn-primary">Add Product</a>
+
+<table class="table table-bordered mt-3">
+    <thead>
+        <tr>
+            <th>ID</th>
+            <th>Name</th>
+            <th>Description</th>
+            <th>Price</th>
+            <th>Stock</th>
+            <th>Category</th>
+            <th>Actions</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var p in Model)
+        {
+            <tr>
+                <td>@p.Id</td>
+                <td>@p.Name</td>
+                <td>@p.Description</td>
+                <td>@p.Price</td>
+                <td>@p.StockQuantity</td>
+                <td>@p.Category</td>
+                <td>
+@*                     <a href="/Product/Update/@p.Id" class="btn btn-sm btn-warning">Edit</a> *@
+
+                    <form method="post" asp-action="Update" asp-controller="Product" asp-route-id="@p.Id" style="display:inline;">
+                        <button type="submit" class="btn btn-sm btn-warning">Edit</button>
+                    </form>
+
+                    <form method="post" asp-action="DeltProduct" asp-controller="Product" asp-route-id="@p.Id" style="display:inline;">
+                        <button type="submit" class="btn btn-sm btn-danger">Delete</button>
+                    </form>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>

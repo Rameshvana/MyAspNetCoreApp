@@ -1,0 +1,64 @@
+﻿@model MvcAdo.Net_Projct1.Models.Student.Student
+
+@{
+    ViewData["Title"] = "Add Student";
+}
+
+<h2 class="text-left">Add New Student</h2>
+
+<div class="container mt-4">
+    <form asp-action="SaveStudent" method="post" class="w-50 shadow-sm p-3">
+        <div class="form-group">
+            <label asp-for="FirstName" class="font-weight-bold"></label>
+            <input asp-for="FirstName" class="form-control" placeholder="Enter First Name" />
+            <span asp-validation-for="FirstName" class="text-danger"></span>
+        </div>
+
+        <div class="form-group">
+            <label asp-for="LastName" class="font-weight-bold"></label>
+            <input asp-for="LastName" class="form-control" placeholder="Enter Last Name" />
+            <span asp-validation-for="LastName" class="text-danger"></span>
+        </div>
+
+        <div class="form-group">
+            <label asp-for="Email" class="font-weight-bold"></label>
+            <input asp-for="Email" class="form-control" placeholder="Enter Email" />
+            <span asp-validation-for="Email" class="text-danger"></span>
+        </div>
+
+        <div class="form-group">
+            <label asp-for="Age" class="font-weight-bold"></label>
+            <input asp-for="Age" class="form-control" placeholder="Enter Age" type="number" min="1" />
+            <span asp-validation-for="Age" class="text-danger"></span>
+        </div>
+
+        <div class="form-group">
+            <label asp-for="Course" class="font-weight-bold"></label>
+            <input asp-for="Course" class="form-control" placeholder="Enter Course" />
+            <span asp-validation-for="Course" class="text-danger"></span>
+        </div>
+
+        <div class="form-group">
+            <label asp-for="Fees" class="font-weight-bold"></label>
+            <input asp-for="Fees" class="form-control" placeholder="Enter Fees" type="number" min="0" />
+            <span asp-validation-for="Fees" class="text-danger"></span>
+        </div>
+
+        <div class="form-group">
+            <label asp-for="Address" class="font-weight-bold"></label>
+            <textarea asp-for="Address" class="form-control" placeholder="Enter Address"></textarea>
+            <span asp-validation-for="Address" class="text-danger"></span>
+        </div>
+
+        <div class="form-group mt-2">
+            <button type="submit" class="btn btn-primary">Save</button>
+            <a asp-action="Index" class="btn btn-secondary ml-2">Back</a>
+        </div>
+    </form>
+</div>
+
+@section Scripts {
+    @{
+        await Html.RenderPartialAsync("_ValidationScriptsPartial");
+    }
+}

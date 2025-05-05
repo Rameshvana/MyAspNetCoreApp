@@ -1,0 +1,92 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Ramesh.Vanaparthi\\Desktop\\Asp.Net_coreMvc\\SolutionForWeb\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{726A937F-FDFC-4796-81FD-1258E9A63911}|SiteManagmnt{726A937F-FDFC-4796-81FD-1258E9A63911}|C:\\Users\\Ramesh.Vanaparthi\\Desktop\\Asp.Net_coreMvc\\SolutionForWeb\\Script1.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{726A937F-FDFC-4796-81FD-1258E9A63911}|SiteManagmnt{726A937F-FDFC-4796-81FD-1258E9A63911}|solutionrelative:Script1.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{726A937F-FDFC-4796-81FD-1258E9A63911}|SiteManagmnt{726A937F-FDFC-4796-81FD-1258E9A63911}|C:\\Users\\Ramesh.Vanaparthi\\Desktop\\Asp.Net_coreMvc\\SolutionForWeb\\StyleSheet1.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{726A937F-FDFC-4796-81FD-1258E9A63911}|SiteManagmnt{726A937F-FDFC-4796-81FD-1258E9A63911}|solutionrelative:StyleSheet1.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02EA681E-C7D8-13C7-8484-4AC65E1B71E8}|ProductManagment{02EA681E-C7D8-13C7-8484-4AC65E1B71E8}|C:\\Users\\Ramesh.Vanaparthi\\Desktop\\Asp.Net_coreMvc\\SolutionForWeb\\productIndex.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{02EA681E-C7D8-13C7-8484-4AC65E1B71E8}|ProductManagment{02EA681E-C7D8-13C7-8484-4AC65E1B71E8}|solutionrelative:productIndex.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{726A937F-FDFC-4796-81FD-1258E9A63911}|SiteManagmnt{726A937F-FDFC-4796-81FD-1258E9A63911}|C:\\Users\\Ramesh.Vanaparthi\\Desktop\\Asp.Net_coreMvc\\SolutionForWeb\\siteIndex.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{726A937F-FDFC-4796-81FD-1258E9A63911}|SiteManagmnt{726A937F-FDFC-4796-81FD-1258E9A63911}|solutionrelative:siteIndex.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Script1.js",
+              "DocumentMoniker": "C:\\Users\\Ramesh.Vanaparthi\\Desktop\\Asp.Net_coreMvc\\SolutionForWeb\\Script1.js",
+              "RelativeDocumentMoniker": "Script1.js",
+              "ToolTip": "C:\\Users\\Ramesh.Vanaparthi\\Desktop\\Asp.Net_coreMvc\\SolutionForWeb\\Script1.js",
+              "RelativeToolTip": "Script1.js",
+              "ViewState": "AgIAAE0AAAAAAAAAAAAYwPEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-04-20T17:04:28.088Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "StyleSheet1.css",
+              "DocumentMoniker": "C:\\Users\\Ramesh.Vanaparthi\\Desktop\\Asp.Net_coreMvc\\SolutionForWeb\\StyleSheet1.css",
+              "RelativeDocumentMoniker": "StyleSheet1.css",
+              "ToolTip": "C:\\Users\\Ramesh.Vanaparthi\\Desktop\\Asp.Net_coreMvc\\SolutionForWeb\\StyleSheet1.css",
+              "RelativeToolTip": "StyleSheet1.css",
+              "ViewState": "AgIAAFYAAAAAAAAAAAAcwHUAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-04-20T16:29:15.603Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "productIndex.html",
+              "DocumentMoniker": "C:\\Users\\Ramesh.Vanaparthi\\Desktop\\Asp.Net_coreMvc\\SolutionForWeb\\productIndex.html",
+              "RelativeDocumentMoniker": "productIndex.html",
+              "ToolTip": "C:\\Users\\Ramesh.Vanaparthi\\Desktop\\Asp.Net_coreMvc\\SolutionForWeb\\productIndex.html",
+              "RelativeToolTip": "productIndex.html",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAADAAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-04-03T11:09:16.395Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "siteIndex.html",
+              "DocumentMoniker": "C:\\Users\\Ramesh.Vanaparthi\\Desktop\\Asp.Net_coreMvc\\SolutionForWeb\\siteIndex.html",
+              "RelativeDocumentMoniker": "siteIndex.html",
+              "ToolTip": "C:\\Users\\Ramesh.Vanaparthi\\Desktop\\Asp.Net_coreMvc\\SolutionForWeb\\siteIndex.html",
+              "RelativeToolTip": "siteIndex.html",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAACkAAABLAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-04-03T11:08:34.553Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

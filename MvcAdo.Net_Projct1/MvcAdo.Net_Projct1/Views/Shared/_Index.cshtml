@@ -1,0 +1,27 @@
+﻿ @model List<MvcAdo.Net_Projct1.Models.Product.Product>; 
+
+
+
+</tr>
+<tbody>
+    @foreach (var p in Model)
+    {
+ <tr> 
+   <td>@p.Id</td>
+  <td>@p.Name</td> 
+  <td>@p.Description</td>
+  <td>@p.Price</td>
+  <td>@p.StockQuantity</td>
+  <td>@p.Category</td>
+   <td>
+        <form method="post" asp-action="Update" asp-controller="Product" asp-route-id="@p.Id" style="display:inline;"> 
+            <button type="submit" class="btn btn-sm btn-warning">Edit</button> 
+        </form> &ensp;
+        <form asp-controller="Product" asp-action="DeltProduct" method="post" asp-route-id="@p.Id" style="display:inline;" onsubmit="return confirm('Are you sure you want to delete this product?');" >
+            <button type="submit" class="btn btn-sm btn-danger ml-3" style="margin-left:16px;">Delete</button>
+        </form> 
+   </td> 
+</tr>       
+    }
+</tbody>
+    

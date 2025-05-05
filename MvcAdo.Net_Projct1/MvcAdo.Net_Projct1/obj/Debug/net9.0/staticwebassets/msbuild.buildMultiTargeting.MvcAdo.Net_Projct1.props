@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\MvcAdo.Net_Projct1.props" />
+</Project>

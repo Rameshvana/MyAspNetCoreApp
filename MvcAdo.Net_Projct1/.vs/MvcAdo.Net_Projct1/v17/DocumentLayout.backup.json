@@ -1,0 +1,265 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Ramesh.Vanaparthi\\Desktop\\Asp.Net_coreMvc\\MvcAdo.Net_Projct1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D9A82DCC-3E68-4532-B0D1-A8FCFADCED51}|MvcAdo.Net_Projct1\\MvcAdo.Net_Projct1.csproj|c:\\users\\ramesh.vanaparthi\\desktop\\asp.net_coremvc\\mvcado.net_projct1\\mvcado.net_projct1\\models\\student\\studentrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9A82DCC-3E68-4532-B0D1-A8FCFADCED51}|MvcAdo.Net_Projct1\\MvcAdo.Net_Projct1.csproj|solutionrelative:mvcado.net_projct1\\models\\student\\studentrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9A82DCC-3E68-4532-B0D1-A8FCFADCED51}|MvcAdo.Net_Projct1\\MvcAdo.Net_Projct1.csproj|c:\\users\\ramesh.vanaparthi\\desktop\\asp.net_coremvc\\mvcado.net_projct1\\mvcado.net_projct1\\models\\student\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9A82DCC-3E68-4532-B0D1-A8FCFADCED51}|MvcAdo.Net_Projct1\\MvcAdo.Net_Projct1.csproj|solutionrelative:mvcado.net_projct1\\models\\student\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9A82DCC-3E68-4532-B0D1-A8FCFADCED51}|MvcAdo.Net_Projct1\\MvcAdo.Net_Projct1.csproj|c:\\users\\ramesh.vanaparthi\\desktop\\asp.net_coremvc\\mvcado.net_projct1\\mvcado.net_projct1\\views\\student\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D9A82DCC-3E68-4532-B0D1-A8FCFADCED51}|MvcAdo.Net_Projct1\\MvcAdo.Net_Projct1.csproj|solutionrelative:mvcado.net_projct1\\views\\student\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9A82DCC-3E68-4532-B0D1-A8FCFADCED51}|MvcAdo.Net_Projct1\\MvcAdo.Net_Projct1.csproj|c:\\users\\ramesh.vanaparthi\\desktop\\asp.net_coremvc\\mvcado.net_projct1\\mvcado.net_projct1\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9A82DCC-3E68-4532-B0D1-A8FCFADCED51}|MvcAdo.Net_Projct1\\MvcAdo.Net_Projct1.csproj|solutionrelative:mvcado.net_projct1\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9A82DCC-3E68-4532-B0D1-A8FCFADCED51}|MvcAdo.Net_Projct1\\MvcAdo.Net_Projct1.csproj|c:\\users\\ramesh.vanaparthi\\desktop\\asp.net_coremvc\\mvcado.net_projct1\\mvcado.net_projct1\\views\\student\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D9A82DCC-3E68-4532-B0D1-A8FCFADCED51}|MvcAdo.Net_Projct1\\MvcAdo.Net_Projct1.csproj|solutionrelative:mvcado.net_projct1\\views\\student\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9A82DCC-3E68-4532-B0D1-A8FCFADCED51}|MvcAdo.Net_Projct1\\MvcAdo.Net_Projct1.csproj|c:\\users\\ramesh.vanaparthi\\desktop\\asp.net_coremvc\\mvcado.net_projct1\\mvcado.net_projct1\\models\\product\\productrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9A82DCC-3E68-4532-B0D1-A8FCFADCED51}|MvcAdo.Net_Projct1\\MvcAdo.Net_Projct1.csproj|solutionrelative:mvcado.net_projct1\\models\\product\\productrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9A82DCC-3E68-4532-B0D1-A8FCFADCED51}|MvcAdo.Net_Projct1\\MvcAdo.Net_Projct1.csproj|c:\\users\\ramesh.vanaparthi\\desktop\\asp.net_coremvc\\mvcado.net_projct1\\mvcado.net_projct1\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{D9A82DCC-3E68-4532-B0D1-A8FCFADCED51}|MvcAdo.Net_Projct1\\MvcAdo.Net_Projct1.csproj|solutionrelative:mvcado.net_projct1\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9A82DCC-3E68-4532-B0D1-A8FCFADCED51}|MvcAdo.Net_Projct1\\MvcAdo.Net_Projct1.csproj|c:\\users\\ramesh.vanaparthi\\desktop\\asp.net_coremvc\\mvcado.net_projct1\\mvcado.net_projct1\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9A82DCC-3E68-4532-B0D1-A8FCFADCED51}|MvcAdo.Net_Projct1\\MvcAdo.Net_Projct1.csproj|solutionrelative:mvcado.net_projct1\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9A82DCC-3E68-4532-B0D1-A8FCFADCED51}|MvcAdo.Net_Projct1\\MvcAdo.Net_Projct1.csproj|c:\\users\\ramesh.vanaparthi\\desktop\\asp.net_coremvc\\mvcado.net_projct1\\mvcado.net_projct1\\views\\student\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D9A82DCC-3E68-4532-B0D1-A8FCFADCED51}|MvcAdo.Net_Projct1\\MvcAdo.Net_Projct1.csproj|solutionrelative:mvcado.net_projct1\\views\\student\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9A82DCC-3E68-4532-B0D1-A8FCFADCED51}|MvcAdo.Net_Projct1\\MvcAdo.Net_Projct1.csproj|c:\\users\\ramesh.vanaparthi\\desktop\\asp.net_coremvc\\mvcado.net_projct1\\mvcado.net_projct1\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D9A82DCC-3E68-4532-B0D1-A8FCFADCED51}|MvcAdo.Net_Projct1\\MvcAdo.Net_Projct1.csproj|solutionrelative:mvcado.net_projct1\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9A82DCC-3E68-4532-B0D1-A8FCFADCED51}|MvcAdo.Net_Projct1\\MvcAdo.Net_Projct1.csproj|c:\\users\\ramesh.vanaparthi\\desktop\\asp.net_coremvc\\mvcado.net_projct1\\mvcado.net_projct1\\views\\product\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D9A82DCC-3E68-4532-B0D1-A8FCFADCED51}|MvcAdo.Net_Projct1\\MvcAdo.Net_Projct1.csproj|solutionrelative:mvcado.net_projct1\\views\\product\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9A82DCC-3E68-4532-B0D1-A8FCFADCED51}|MvcAdo.Net_Projct1\\MvcAdo.Net_Projct1.csproj|c:\\users\\ramesh.vanaparthi\\desktop\\asp.net_coremvc\\mvcado.net_projct1\\mvcado.net_projct1\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D9A82DCC-3E68-4532-B0D1-A8FCFADCED51}|MvcAdo.Net_Projct1\\MvcAdo.Net_Projct1.csproj|solutionrelative:mvcado.net_projct1\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9A82DCC-3E68-4532-B0D1-A8FCFADCED51}|MvcAdo.Net_Projct1\\MvcAdo.Net_Projct1.csproj|c:\\users\\ramesh.vanaparthi\\desktop\\asp.net_coremvc\\mvcado.net_projct1\\mvcado.net_projct1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9A82DCC-3E68-4532-B0D1-A8FCFADCED51}|MvcAdo.Net_Projct1\\MvcAdo.Net_Projct1.csproj|solutionrelative:mvcado.net_projct1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9A82DCC-3E68-4532-B0D1-A8FCFADCED51}|MvcAdo.Net_Projct1\\MvcAdo.Net_Projct1.csproj|c:\\users\\ramesh.vanaparthi\\desktop\\asp.net_coremvc\\mvcado.net_projct1\\mvcado.net_projct1\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D9A82DCC-3E68-4532-B0D1-A8FCFADCED51}|MvcAdo.Net_Projct1\\MvcAdo.Net_Projct1.csproj|solutionrelative:mvcado.net_projct1\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9A82DCC-3E68-4532-B0D1-A8FCFADCED51}|MvcAdo.Net_Projct1\\MvcAdo.Net_Projct1.csproj|c:\\users\\ramesh.vanaparthi\\desktop\\asp.net_coremvc\\mvcado.net_projct1\\mvcado.net_projct1\\views\\shared\\_index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D9A82DCC-3E68-4532-B0D1-A8FCFADCED51}|MvcAdo.Net_Projct1\\MvcAdo.Net_Projct1.csproj|solutionrelative:mvcado.net_projct1\\views\\shared\\_index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "StudentRepo.cs",
+              "DocumentMoniker": "C:\\Users\\Ramesh.Vanaparthi\\Desktop\\Asp.Net_coreMvc\\MvcAdo.Net_Projct1\\MvcAdo.Net_Projct1\\Models\\Student\\StudentRepo.cs",
+              "RelativeDocumentMoniker": "MvcAdo.Net_Projct1\\Models\\Student\\StudentRepo.cs",
+              "ToolTip": "C:\\Users\\Ramesh.Vanaparthi\\Desktop\\Asp.Net_coreMvc\\MvcAdo.Net_Projct1\\MvcAdo.Net_Projct1\\Models\\Student\\StudentRepo.cs",
+              "RelativeToolTip": "MvcAdo.Net_Projct1\\Models\\Student\\StudentRepo.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAQwB8AAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-22T04:14:34.383Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Add.cshtml",
+              "DocumentMoniker": "C:\\Users\\Ramesh.Vanaparthi\\Desktop\\Asp.Net_coreMvc\\MvcAdo.Net_Projct1\\MvcAdo.Net_Projct1\\Views\\Student\\Add.cshtml",
+              "RelativeDocumentMoniker": "MvcAdo.Net_Projct1\\Views\\Student\\Add.cshtml",
+              "ToolTip": "C:\\Users\\Ramesh.Vanaparthi\\Desktop\\Asp.Net_coreMvc\\MvcAdo.Net_Projct1\\MvcAdo.Net_Projct1\\Views\\Student\\Add.cshtml",
+              "RelativeToolTip": "MvcAdo.Net_Projct1\\Views\\Student\\Add.cshtml",
+              "ViewState": "AgIAABoAAAAAAAAAAAAkwDkAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-22T04:42:52.869Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ProductRepo.cs",
+              "DocumentMoniker": "C:\\Users\\Ramesh.Vanaparthi\\Desktop\\Asp.Net_coreMvc\\MvcAdo.Net_Projct1\\MvcAdo.Net_Projct1\\Models\\Product\\ProductRepo.cs",
+              "RelativeDocumentMoniker": "MvcAdo.Net_Projct1\\Models\\Product\\ProductRepo.cs",
+              "ToolTip": "C:\\Users\\Ramesh.Vanaparthi\\Desktop\\Asp.Net_coreMvc\\MvcAdo.Net_Projct1\\MvcAdo.Net_Projct1\\Models\\Product\\ProductRepo.cs",
+              "RelativeToolTip": "MvcAdo.Net_Projct1\\Models\\Product\\ProductRepo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAKcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-22T06:01:37.366Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "StudentController.cs",
+              "DocumentMoniker": "C:\\Users\\Ramesh.Vanaparthi\\Desktop\\Asp.Net_coreMvc\\MvcAdo.Net_Projct1\\MvcAdo.Net_Projct1\\Controllers\\StudentController.cs",
+              "RelativeDocumentMoniker": "MvcAdo.Net_Projct1\\Controllers\\StudentController.cs",
+              "ToolTip": "C:\\Users\\Ramesh.Vanaparthi\\Desktop\\Asp.Net_coreMvc\\MvcAdo.Net_Projct1\\MvcAdo.Net_Projct1\\Controllers\\StudentController.cs",
+              "RelativeToolTip": "MvcAdo.Net_Projct1\\Controllers\\StudentController.cs",
+              "ViewState": "AgIAACgAAAAAAAAAAAAkwFkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-21T09:41:11.981Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Ramesh.Vanaparthi\\Desktop\\Asp.Net_coreMvc\\MvcAdo.Net_Projct1\\MvcAdo.Net_Projct1\\Views\\Student\\Index.cshtml",
+              "RelativeDocumentMoniker": "MvcAdo.Net_Projct1\\Views\\Student\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Ramesh.Vanaparthi\\Desktop\\Asp.Net_coreMvc\\MvcAdo.Net_Projct1\\MvcAdo.Net_Projct1\\Views\\Student\\Index.cshtml",
+              "RelativeToolTip": "MvcAdo.Net_Projct1\\Views\\Student\\Index.cshtml",
+              "ViewState": "AgIAABMAAAAAAAAAAAAkwCMAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-22T04:21:32.868Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\Ramesh.Vanaparthi\\Desktop\\Asp.Net_coreMvc\\MvcAdo.Net_Projct1\\MvcAdo.Net_Projct1\\Models\\Student\\Student.cs",
+              "RelativeDocumentMoniker": "MvcAdo.Net_Projct1\\Models\\Student\\Student.cs",
+              "ToolTip": "C:\\Users\\Ramesh.Vanaparthi\\Desktop\\Asp.Net_coreMvc\\MvcAdo.Net_Projct1\\MvcAdo.Net_Projct1\\Models\\Student\\Student.cs",
+              "RelativeToolTip": "MvcAdo.Net_Projct1\\Models\\Student\\Student.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-22T04:32:53.819Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Ramesh.Vanaparthi\\Desktop\\Asp.Net_coreMvc\\MvcAdo.Net_Projct1\\MvcAdo.Net_Projct1\\appsettings.json",
+              "RelativeDocumentMoniker": "MvcAdo.Net_Projct1\\appsettings.json",
+              "ToolTip": "C:\\Users\\Ramesh.Vanaparthi\\Desktop\\Asp.Net_coreMvc\\MvcAdo.Net_Projct1\\MvcAdo.Net_Projct1\\appsettings.json",
+              "RelativeToolTip": "MvcAdo.Net_Projct1\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-04-22T05:58:09.615Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "C:\\Users\\Ramesh.Vanaparthi\\Desktop\\Asp.Net_coreMvc\\MvcAdo.Net_Projct1\\MvcAdo.Net_Projct1\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "MvcAdo.Net_Projct1\\Controllers\\ProductController.cs",
+              "ToolTip": "C:\\Users\\Ramesh.Vanaparthi\\Desktop\\Asp.Net_coreMvc\\MvcAdo.Net_Projct1\\MvcAdo.Net_Projct1\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "MvcAdo.Net_Projct1\\Controllers\\ProductController.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwDsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-21T07:19:42.314Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Update.cshtml",
+              "DocumentMoniker": "C:\\Users\\Ramesh.Vanaparthi\\Desktop\\Asp.Net_coreMvc\\MvcAdo.Net_Projct1\\MvcAdo.Net_Projct1\\Views\\Student\\Update.cshtml",
+              "RelativeDocumentMoniker": "MvcAdo.Net_Projct1\\Views\\Student\\Update.cshtml",
+              "ToolTip": "C:\\Users\\Ramesh.Vanaparthi\\Desktop\\Asp.Net_coreMvc\\MvcAdo.Net_Projct1\\MvcAdo.Net_Projct1\\Views\\Student\\Update.cshtml",
+              "RelativeToolTip": "MvcAdo.Net_Projct1\\Views\\Student\\Update.cshtml",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAAC8AAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-22T04:41:23.52Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\Ramesh.Vanaparthi\\Desktop\\Asp.Net_coreMvc\\MvcAdo.Net_Projct1\\MvcAdo.Net_Projct1\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "MvcAdo.Net_Projct1\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\Ramesh.Vanaparthi\\Desktop\\Asp.Net_coreMvc\\MvcAdo.Net_Projct1\\MvcAdo.Net_Projct1\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "MvcAdo.Net_Projct1\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-21T12:16:13.698Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\Ramesh.Vanaparthi\\Desktop\\Asp.Net_coreMvc\\MvcAdo.Net_Projct1\\MvcAdo.Net_Projct1\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "MvcAdo.Net_Projct1\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\Ramesh.Vanaparthi\\Desktop\\Asp.Net_coreMvc\\MvcAdo.Net_Projct1\\MvcAdo.Net_Projct1\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "MvcAdo.Net_Projct1\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-21T12:16:08.003Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Add.cshtml",
+              "DocumentMoniker": "C:\\Users\\Ramesh.Vanaparthi\\Desktop\\Asp.Net_coreMvc\\MvcAdo.Net_Projct1\\MvcAdo.Net_Projct1\\Views\\Product\\Add.cshtml",
+              "RelativeDocumentMoniker": "MvcAdo.Net_Projct1\\Views\\Product\\Add.cshtml",
+              "ToolTip": "C:\\Users\\Ramesh.Vanaparthi\\Desktop\\Asp.Net_coreMvc\\MvcAdo.Net_Projct1\\MvcAdo.Net_Projct1\\Views\\Product\\Add.cshtml",
+              "RelativeToolTip": "MvcAdo.Net_Projct1\\Views\\Product\\Add.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-21T10:32:02.402Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Ramesh.Vanaparthi\\Desktop\\Asp.Net_coreMvc\\MvcAdo.Net_Projct1\\MvcAdo.Net_Projct1\\Views\\Product\\Index.cshtml",
+              "RelativeDocumentMoniker": "MvcAdo.Net_Projct1\\Views\\Product\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Ramesh.Vanaparthi\\Desktop\\Asp.Net_coreMvc\\MvcAdo.Net_Projct1\\MvcAdo.Net_Projct1\\Views\\Product\\Index.cshtml",
+              "RelativeToolTip": "MvcAdo.Net_Projct1\\Views\\Product\\Index.cshtml",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAACEAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-21T10:24:43.838Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Ramesh.Vanaparthi\\Desktop\\Asp.Net_coreMvc\\MvcAdo.Net_Projct1\\MvcAdo.Net_Projct1\\Program.cs",
+              "RelativeDocumentMoniker": "MvcAdo.Net_Projct1\\Program.cs",
+              "ToolTip": "C:\\Users\\Ramesh.Vanaparthi\\Desktop\\Asp.Net_coreMvc\\MvcAdo.Net_Projct1\\MvcAdo.Net_Projct1\\Program.cs",
+              "RelativeToolTip": "MvcAdo.Net_Projct1\\Program.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAQwCwAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-21T09:40:05.742Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "_Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Ramesh.Vanaparthi\\Desktop\\Asp.Net_coreMvc\\MvcAdo.Net_Projct1\\MvcAdo.Net_Projct1\\Views\\Shared\\_Index.cshtml",
+              "RelativeDocumentMoniker": "MvcAdo.Net_Projct1\\Views\\Shared\\_Index.cshtml",
+              "ToolTip": "C:\\Users\\Ramesh.Vanaparthi\\Desktop\\Asp.Net_coreMvc\\MvcAdo.Net_Projct1\\MvcAdo.Net_Projct1\\Views\\Shared\\_Index.cshtml",
+              "RelativeToolTip": "MvcAdo.Net_Projct1\\Views\\Shared\\_Index.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAoAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-21T10:23:47.351Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

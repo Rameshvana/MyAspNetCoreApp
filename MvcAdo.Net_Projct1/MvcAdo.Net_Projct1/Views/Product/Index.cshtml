@@ -1,0 +1,43 @@
+﻿@model List<MvcAdo.Net_Projct1.Models.Product.Product>
+
+@{
+    ViewData["Title"] = "Product List";
+}
+@if (!string.IsNullOrEmpty(ViewBag.Message))
+{
+    <div class="alert alert-info">@ViewBag.Message</div>
+}
+
+
+<table class="table table-bordered mt-3">
+    <div sty">
+        <h2>Products</h2>
+        <a href="/Product/Add" class="btn btn-primary">Add Product</a>
+    </div>
+    <thead>
+        <tr>
+            <th>ID</th>
+            <th>Name</th>
+            <th>Description</th>
+            <th>Price</th>
+            <th>Stock</th>
+            <th>Category</th>
+            <th>Actions</th>
+        </tr>
+    </thead>
+  
+
+
+
+
+    @if (Model.Any())
+    {
+       @Html.Partial("_Index", Model);
+        
+    }else
+    {
+        <p>No Products Available to show</p>
+    }
+</table>
+
+

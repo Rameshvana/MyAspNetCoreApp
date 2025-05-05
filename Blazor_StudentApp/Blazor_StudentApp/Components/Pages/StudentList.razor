@@ -1,0 +1,160 @@
+﻿@page "/students"
+@inject HttpClient Http
+@rendermode InteractiveServer
+
+<PageTitle>Students</PageTitle>
+
+<h1>Students</h1>
+
+<hr />
+
+<h4>Add New Student</h4>
+<div class="row mb-4">
+    <div class="col-md-2"><input class="form-control" placeholder="First Name" @bind="newStudent.FirstName" /></div>
+    <div class="col-md-2"><input class="form-control" placeholder="Last Name" @bind="newStudent.LastName" /></div>
+    <div class="col-md-2"><input class="form-control" placeholder="Email" @bind="newStudent.Email" /></div>
+    <div class="col-md-1"><input type="number" class="form-control" placeholder="Age" @bind="newStudent.Age" /></div>
+    <div class="col-md-2"><input class="form-control" placeholder="Course" @bind="newStudent.Course" /></div>
+    <div class="col-md-2"><input class="form-control" placeholder="Address" @bind="newStudent.Address" /></div>
+    <div class="col-md-1">
+        <button class="btn btn-primary w-100" @onclick="AddStudent">Add</button>
+    </div>
+</div>
+
+<hr />
+
+@if (students == null)
+{
+    <p><em>Loading students...</em></p>
+}
+else
+{
+    <table class="table table-bordered">
+        <thead class="table-light">
+            <tr>
+                <th>First Name</th>
+                <th>Last Name</th>
+                <th>Email</th>
+                <th>Age</th>
+                <th>Course</th>
+                <th>Address</th>
+                <th>Actions</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var s in students)
+            {
+                <tr>
+                    <td>@(editingId == s.Id ? (MarkupString)$"<input class='form-control' @bind='editStudent.FirstName' />" : s.FirstName)</td>
+                    <td>@(editingId == s.Id ? (MarkupString)$"<input class='form-control' @bind='editStudent.LastName' />" : s.LastName)</td>
+                    <td>@(editingId == s.Id ? (MarkupString)$"<input class='form-control' @bind='editStudent.Email' />" : s.Email)</td>
+                    <td>@(editingId == s.Id ? (MarkupString)$"<input type='number' class='form-control' @bind='editStudent.Age' />" : s.Age.ToString())</td>
+                    <td>@(editingId == s.Id ? (MarkupString)$"<input class='form-control' @bind='editStudent.Course' />" : s.Course)</td>
+                    <td>@(editingId == s.Id ? (MarkupString)$"<input class='form-control' @bind='editStudent.Address' />" : s.Address)</td>
+                    <td>
+                        @if (editingId == s.Id)
+                        {
+                            <button class="btn btn-success btn-sm" @onclick="SaveStudent">Save</button>
+                            <button class="btn btn-secondary btn-sm" @onclick="CancelEdit">Cancel</button>
+                        }
+                        else
+                        {
+                            <button class="btn btn-warning btn-sm" @onclick="() => EditStudent(s)">Edit</button>
+                            <button class="btn btn-danger btn-sm" @onclick="() => DeleteStudent(s.Id)">Delete</button>
+                        }
+                    </td>
+                </tr>
+            }
+        </tbody>
+    </table>
+}
+
+@code {
+   /*  private const string baseApiUrl = "https://localhost:7296/api/studnetapi"; */
+
+    private const string baseApiUrl = "https://localhost:7239/api/student";
+  
+
+    public class Student
+    {
+        public int Id { get; set; }
+        public string FirstName { get; set; } = string.Empty;
+        public string LastName { get; set; } = string.Empty;
+        public string Email { get; set; } = string.Empty;
+        public int Age { get; set; }
+        public string Course { get; set; } = string.Empty;
+        public string Address { get; set; } = string.Empty;
+    }
+
+    private List<Student>? students;
+    private Student editStudent = new();
+    private Student newStudent = new();
+    private int editingId = -1;
+
+    protected override async Task OnInitializedAsync()
+    {
+        await LoadStudents();
+    }
+
+    private async Task LoadStudents()
+    {
+        students = await Http.GetFromJsonAsync<List<Student>>(baseApiUrl);
+    }
+
+    private async Task AddStudent()
+    {
+        if (!string.IsNullOrWhiteSpace(newStudent.FirstName) && !string.IsNullOrWhiteSpace(newStudent.Email))
+        {
+            var response = await Http.PostAsJsonAsync(baseApiUrl, newStudent);
+
+            if (response.IsSuccessStatusCode)
+            {
+                newStudent = new Student(); // Clear form
+
+                await LoadStudents();
+            }
+        }
+    }
+
+    private void EditStudent(Student s)
+    {
+        editingId = s.Id;
+        editStudent = new Student
+            {
+                Id = s.Id,
+                FirstName = s.FirstName,
+                LastName = s.LastName,
+                Email = s.Email,
+                Age = s.Age,
+                Course = s.Course,
+                Address = s.Address
+            };
+    }
+
+    private async Task SaveStudent()
+    {
+        if (editStudent is not null)
+        {
+            var response = await Http.PutAsJsonAsync($"{baseApiUrl}/{editStudent.Id}", editStudent);
+            if (response.IsSuccessStatusCode)
+            {
+                editingId = -1;
+                await LoadStudents();
+            }
+        }
+    }
+
+    private void CancelEdit()
+    {
+        editingId = -1;
+    }
+
+    private async Task DeleteStudent(int id)
+    {
+        var response = await Http.DeleteAsync($"{baseApiUrl}/{id}");
+        if (response.IsSuccessStatusCode)
+        {
+            await LoadStudents();
+        }
+    }
+}
